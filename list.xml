@@ -260,4 +260,8 @@
 	<spider ident="googleimageproxy">
 		<name>Google Image Proxy</name>
 	</spider>
+	<spider ident="Zapier">
+		<name>Zapier</name>
+		<url>https://zapier.com/</url>
+	</spider>
 </data>
